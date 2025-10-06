@@ -8,3 +8,5 @@ If, for whatever reason, you wish to generate the function selector yourself you
 ```rust,ignore
 {{#include ../../../examples/debugging/src/lib.rs:example_fn_selector}}
 ```
+
+<!-- Auto-update: 2025-10-06T13:22:59.814039 -->
