@@ -13,3 +13,5 @@ You can also set a custom block time as the second, optional argument. Here is a
 ```rust,ignore
 {{#include ../../../e2e/tests/providers.rs:use_produce_blocks_custom_time}}
 ```
+
+<!-- Auto-update: 2025-10-12T09:05:19.629244 -->
